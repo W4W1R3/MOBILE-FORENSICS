@@ -12,3 +12,5 @@ Aspire{2c44d2efb924d1908977f5fc4f39fdf5!}
 ```
 The other method would be installing the app and trying to see if we might find the flag, and actually it was showing the flag.
 ![Screnshot](https://github.com/W4W1R3/MOBILE-FORENSICS/blob/main/Aspire%20CTF%202021/%201.%20Sanity/2.jpg)
+
+Aspire{2c44d2efb924d1908977f5fc4f39fdf5!}
