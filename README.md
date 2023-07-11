@@ -5,4 +5,4 @@ Mobile forensics Capture The Flag (CTF) competitions are designed to test partic
 # Tools
 
 1. Jadx-gui
-2. 
+2. SQLite
