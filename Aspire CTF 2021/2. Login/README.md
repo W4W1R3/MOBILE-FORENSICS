@@ -22,6 +22,8 @@ p@ssword@!
 ┌──(billie㉿kali)-[~]
 └─$ 
 ```
-
+ We get the flag after formating it into as 
+ 
+ Aspire{admin:p@ssword@!} 
 
  
