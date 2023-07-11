@@ -41,3 +41,11 @@ System.out.println(Integer.toString((int) (Math.pow((double) (instannce.get(3) *
 The user logged in to the application on June 5th. What key did they use?
 
 Seems like we had to change our default date  to June 5th
+
+```bash
+└─$ java passcode.java
+706009
+```
+Thus 
+# Flag
+Aspire{706009}
