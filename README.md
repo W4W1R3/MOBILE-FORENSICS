@@ -8,7 +8,7 @@ Mobile forensics Capture The Flag (CTF) competitions are designed to test partic
    
     Dex to Java decompiler including Command line and GUI tools for produce Java source code from Android Dex and Apk files
    
-      git clone https://github.com/skylot/jadx.git
+      ```git clone https://github.com/skylot/jadx.git
       cd jadx
       ./gradlew dist
    
