@@ -4,7 +4,7 @@ Mobile forensics Capture The Flag (CTF) competitions are designed to test partic
 
 # Tools
 
-# 1. ![Jadx-gui](https://github.com/wlcaption/jadx_gui.git)
+# ![Jadx-gui](https://github.com/wlcaption/jadx_gui.git)
    
     Dex to Java decompiler including Command line and GUI tools for produce Java source code from Android Dex and Apk files
 ```
@@ -12,12 +12,12 @@ Mobile forensics Capture The Flag (CTF) competitions are designed to test partic
       cd jadx
       ./gradlew dist
    ```
-# 2. ![SQLite](https://github.com/dutchcoders/forensics-sqlite.git)
+# ![SQLite](https://github.com/dutchcoders/forensics-sqlite.git)
 
    Dumps frames of the -wal (write ahead log) file of sqlite databases. The write ahead log is being written every once in a while to the real database. Using the write ahead log it will be possible to do forensics analyses on the history of the database (eg. modified records, added records etc.
 
    SQLite databases are often used mobile applications.
-# 3. ![OpenMF](https://github.com/scorelab/OpenMF.git)
+# ![OpenMF](https://github.com/scorelab/OpenMF.git)
 
 The OpenMF project, an open-source forensic tool that supports digital forensic investigators across the entire digital forensic investigation process.
 
