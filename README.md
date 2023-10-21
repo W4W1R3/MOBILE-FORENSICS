@@ -28,8 +28,6 @@ The OpenMF project, an open-source forensic tool that supports digital forensic 
 
 - **Analysis Reports**: Generate in-depth analysis reports for each case, providing meaningful insights.
 
-## Why OpenMF?
-
 OpenMF is an essential tool for digital forensic organizations, streamlining the investigation process and enhancing efficiency. While it currently operates as a command-line tool, we have exciting plans for the future.
 
 #
