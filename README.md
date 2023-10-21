@@ -14,11 +14,8 @@ Mobile forensics Capture The Flag (CTF) competitions are designed to test partic
    ```
 3. SQLite
 4. ![OpenMF](https://github.com/scorelab/OpenMF.git)
-   # OpenMF: Your Android Forensic Solution
 
-Welcome to the OpenMF project, an open-source forensic tool that supports digital forensic investigators across the entire digital forensic investigation process.
-
-## Key Features
+The OpenMF project, an open-source forensic tool that supports digital forensic investigators across the entire digital forensic investigation process.
 
 - **Data Extraction**: OpenMF simplifies the extraction of relevant data from Android smartphones.
 
