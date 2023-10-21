@@ -6,3 +6,4 @@ Mobile forensics Capture The Flag (CTF) competitions are designed to test partic
 
 1. Jadx-gui
 2. SQLite
+3. ![OpenMF](https://github.com/scorelab/OpenMF.git)
