@@ -4,9 +4,7 @@ Mobile forensics Capture The Flag (CTF) competitions are designed to test partic
 
 # Tools
 
-1. Jadx-gui
-   
-   adx - Dex to Java decompiler
-Command line and GUI tools for produce Java source code from Android Dex and Apk files
+1. ![Jadx-gui](https://github.com/wlcaption/jadx_gui.git)
+    Dex to Java decompiler including Command line and GUI tools for produce Java source code from Android Dex and Apk files
 3. SQLite
 4. ![OpenMF](https://github.com/scorelab/OpenMF.git)
